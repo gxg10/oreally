@@ -1,0 +1,64 @@
+Users\Training\Desktop\Courses\Spring MVC\0500 Controller Basics\0502 Course Project Walkthrough\Course Project Walkthough
+   │
+   ├[.mvn]
+   │   │
+   │   └[wrapper]
+   │       │
+   │       ├maven-wrapper
+   │       └maven-wrapper
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.core.resources
+   │   ├org.eclipse.jdt.core
+   │   ├org.eclipse.m2e.core
+   │   └org.eclipse.wst.common.project.facet.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[mvc]
+   │   │   │               │
+   │   │   │               ├[controllers]
+   │   │   │               │   │
+   │   │   │               │   ├MainController
+   │   │   │               │   └ProjectController
+   │   │   │               └SpringMvcBootApplication
+   │   │   ├[resources]
+   │   │   │   │
+   │   │   │   ├[static]
+   │   │   │   ├[templates]
+   │   │   │   └application
+   │   │   └[webapp]
+   │   │       │
+   │   │       └[WEB-INF]
+   │   │           │
+   │   │           └[views]
+   │   │               │
+   │   │               ├[fragments]
+   │   │               │   │
+   │   │               │   └header
+   │   │               ├home
+   │   │               └project_add
+   │   └[test]
+   │       │
+   │       └[java]
+   │           │
+   │           └[com]
+   │               │
+   │               └[oreilly]
+   │                   │
+   │                   └[mvc]
+   │                       │
+   │                       └SpringMvcBootApplicationTests
+   ├
+   ├
+   ├
+   ├mvnw
+   ├mvnw
+   └pom
